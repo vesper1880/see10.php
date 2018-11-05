@@ -1,0 +1,23 @@
+<?php
+if($var == 1){echo "Liked it? Click Here for More ";}
+if($var == 2){echo "Liked it? Click Here for More";}
+if($var == 3){echo "Liked it? Click Here for More"; }
+if($var == 4){echo "Liked it? Click Here for More"; }
+if($var == 5){echo "Liked it? Click Here for More"; }
+if($var == 6){echo "Liked it? Click Here for More"; }
+if($var == 7){echo "Liked it? Click Here for More"; }
+if($var == 8){echo "Liked it? Click Here for More"; }
+if($var == 9){echo "Liked it? Click Here for More"; }
+if($var == 10){echo "Liked it? Click Here for More"; }
+if($var == 11){echo "Liked it? Click Here for More"; }
+if($var == 12){echo "Liked it? Click Here for More"; }
+if($var == 13){echo "Liked it? Click Here for More"; }
+if($var == 14){echo "Liked it? Click Here for More"; }
+if($var == 15){echo "Liked it? Click Here for More"; }
+if($var == 16){echo "Liked it? Click Here for More"; }
+if($var == 17){echo "Liked it? Click Here for More"; }
+if($var == 18){echo "Liked it? Click Here for More"; }
+if($var == 19){echo "Liked it? Click Here for More"; }
+if($var == 20){echo "Liked it? Click Here for More"; }
+
+?>" 
