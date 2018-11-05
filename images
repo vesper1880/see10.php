@@ -1,0 +1,45 @@
+<?php
+if($var == 1){echo "<h1>1st Statement Here</h1></br>";}
+if($var == 2){echo "<h1>2nd Statement Here</h1></br>";}
+if($var == 3){echo "<h1>3rd Statement Here</h1></br>"; }
+if($var == 4){echo "<h1>4th Statement Here</h1></br>"; }
+if($var == 5){echo "<h1>5th Statement Here</h1></br>"; }
+if($var == 6){echo "<h1>6th Statement Here</h1></br>"; }
+if($var == 7){echo "<h1>7th Statement Here</h1></br>"; }
+if($var == 8){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 9){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 10){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 11){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 12){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 13){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 14){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 15){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 16){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 17){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 18){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 19){echo "<h1>8th Statement Here</h1></br>"; }
+if($var == 20){echo "<h1>8th Statement Here</h1></br>"; }
+
+ if($var == 1) {print '<img src="images/1.jpg" width="65%">';}
+ if($var == 2) {print '<img src="images/2.jpg" width="65%">';}
+ if($var == 3) {print '<img src="images/3.jpg" width="65%">';}
+ if($var == 4) {print '<img src="images/4.jpg" width="65%">';}
+ if($var == 5) {print '<img src="images/5.jpg" width="65%">';}
+ if($var == 6) {print '<img src="images/6.jpg" width="65%">';}
+ if($var == 7) {print '<img src="images/7.jpg" width="65%">';}
+ if($var == 8) {print '<img src="images/8.jpg" width="65%">';}
+ if($var == 9) {print '<img src="images/9.jpg" width="65%">';}
+ if($var == 10) {print '<img src="images/10.jpg" width="65%">';}
+ if($var == 11) {print '<img src="images/11.jpg" width="65%">';}
+ if($var == 12) {print '<img src="images/12.jpg" width="65%">';}
+ if($var == 13) {print '<img src="images/13.jpg" width="65%">';}
+ if($var == 14) {print '<img src="images/14.jpg" width="65%">';}
+ if($var == 15) {print '<img src="images/15.jpg" width="65%">';}
+ if($var == 16) {print '<img src="images/16.jpg" width="65%">';}
+ if($var == 17) {print '<img src="images/17.jpg" width="65%">';}
+ if($var == 18) {print '<img src="images/18.jpg" width="65%">';}
+ if($var == 19) {print '<img src="images/19.jpg" width="65%">';}
+ if($var == 20) {print '<img src="images/20.jpg" width="65%">';}
+
+
+?>
